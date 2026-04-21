@@ -1,0 +1,23 @@
+### Scenario 1 — Auto-approved
+POST http://localhost:7071/api/expense
+Content-Type: application/json
+
+{
+  "employee": "Alex",
+  "email": "alex@test.com",
+  "amount": 50,
+  "category": "meals",
+  "managerEmail": "boss@test.com"
+}
+
+### Scenario 2 — Manager approves
+POST http://localhost:7071/api/expense
+Content-Type: application/json
+
+{
+  "employee": "Sam",
+  "email": "sam@test.com",
+  "amount": 250,
+  "category": "travel",
+  "managerEmail": "manager@test.com"
+}
