@@ -107,3 +107,8 @@ For a production-grade expense approval system with complex workflows and human 
 ## AI Disclosure
 
 AI tools were used to assist in understanding Azure Durable Functions patterns, Logic Apps design considerations, and troubleshooting environment configuration issues and formatting the Readme file. 
+
+---
+---
+
+## THANKS
