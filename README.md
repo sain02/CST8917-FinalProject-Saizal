@@ -8,10 +8,10 @@
 ---
 
 ### YouTube Video Link:
-
+https://youtu.be/6FF-avWNRD0 
 ### Presentation Slides:
 
-For the presentation slides, I have submitted it separately with the Repositoru Link.
+For the presentation slides, I have submitted it separately with the Repository Link.
 
 ## Overview
 
