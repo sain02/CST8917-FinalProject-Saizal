@@ -9,6 +9,10 @@
 
 ### YouTube Video Link:
 
+### Presentation Slides:
+
+For the presentation slides, I have submitted it separately with the Repositoru Link.
+
 ## Overview
 
 This project implements the same business workflow an expense approval pipeline using two different Azure serverless orchestration approaches:
